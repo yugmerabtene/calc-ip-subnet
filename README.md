@@ -7,7 +7,7 @@ Dans un réseau, le sous-réseau permet de diviser une adresse IP en plusieurs b
 - Une plage d’adresses utilisables pour les hôtes,
 - Une adresse de diffusion (broadcast).
 
-Prenons un exemple avec l’adresse **172.16.0.0/28** (au lieu de l’adresse de la question) pour expliquer comment déterminer les éléments demandés.
+Prenons un exemple avec l’adresse **172.16.0.0/28** pour expliquer comment déterminer les éléments demandés.
 
 ---
 
